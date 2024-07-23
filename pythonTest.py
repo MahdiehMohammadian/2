@@ -75,3 +75,5 @@ student1 = Student("Ali","Aali",32)
 student1.print_first_name()
 w = person("a","b",18)
 w.print_first_name()
+
+print("finish")
